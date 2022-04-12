@@ -5,12 +5,10 @@
 #### I'm a Full-Stack Developer and Produt Owner, living in Noumea, New Caledonia 🌴
 
 ##### NOW
-- 💁‍♂️My past experience defines me as a full stack developer / product owner
 - 🏝 I'm just coming out of a 1.5 years long sabbatical.
+- 💁‍♂️ My past experience defines me as a full stack developer / product owner
 - ⚙️ However I'm looking at getting specialized in Front-End Development, as I really enjoy being close to the end-user experience.
 - 💻 I live in New Caledonia, and open to work remotely.
-
-
 
 ##### PAST
 
@@ -32,5 +30,6 @@
 - ⚡️ Fun fact: I worked in 5 different countries (USA, Australia, France, India, New Caledonia).
 
 ##### LINKS
+
 - [stack overflow](https://stackoverflow.com/users/2617419)
 - [leetcode](https://leetcode.com/user1019w/)
