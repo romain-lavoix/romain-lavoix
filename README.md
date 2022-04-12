@@ -26,9 +26,8 @@
 ##### BIO
 
 - ⚙️ I have used mainly : Java, Javascript, Python, HTML5, CSS3, React, CRA, Next, Node, Scrapy, AWS, Algolia.
-- 🌍 I love the JAM Stack, serverless functions, progressive web apps, and hybrid front-end framework (Static Generation and Server Side Rendering).
+- 🌍 I love the JAM Stack, serverless functions, progressive web apps, and hybrid front-end frameworks (Static Generation and Server Side Rendering).
 - ⚡️ Obsessed with fast rendering, always aiming for 90+ performances in Google Lighthouse.
-- 💅 Early user of Material-UI, contributed to a few pull requests with a previous github account.
 - 🌱 Continuous learner.
 - ⚡️ Fun fact: I worked in 5 different countries (USA, Australia, France, India, New Caledonia).
 
