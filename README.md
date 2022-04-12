@@ -2,7 +2,10 @@
 
 #### Brand new Github profile ✨
 
-#### I'm a Full-Stack Engineer and Produt Owner, aiming for a Front-End Engineering specialization. ⚙️
+#### I'm a Full-Stack Engineer and Produt Owner, Experienced in both Enterprise Softwares, and Web Applications. 🧰
+
+#### Aiming for a Front-End Engineering specialization. ⚙️
+
 #### I live in Nouméa, New Caledonia 🌴
 
 ##### NOW
