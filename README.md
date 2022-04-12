@@ -11,7 +11,6 @@
 - 💻 I live in New Caledonia, and open to work remotely.
 
 ##### PAST
-
 - 👨‍🎓 A proud graduate of EPITA 2009, major "Information Systems & Software Engineering".
 - 🏦 Former Java Engineer working for Calypso Technology, San Francisco. Clients included Goldman Sach and Natixis.
 - 🧐 Former OCTO Technology Australia consultant. Clients included Qantas and the Australian Mutual Provident Society.
@@ -22,7 +21,6 @@
 - 🤖 Teaching of [robotics](https://www.lnc.nc/article/grand-noumea/noumea/a-saint-quentin-les-vacanciers-apprivoisent-la-robotique) to high school students during summer vacations.
 
 ##### BIO
-
 - ⚙️ I have used mainly : Java, Javascript, Python, HTML5, CSS3, React, CRA, Next, Node, Scrapy, AWS, Algolia.
 - 🌍 I love the JAM Stack, serverless functions, progressive web apps, and hybrid front-end frameworks (Static Generation and Server Side Rendering).
 - ⚡️ Obsessed with fast rendering, always aiming for 90+ performances in Google Lighthouse.
@@ -30,6 +28,5 @@
 - ⚡️ Fun fact: I worked in 5 different countries (USA, Australia, France, India, New Caledonia).
 
 ##### LINKS
-
 - [stack overflow](https://stackoverflow.com/users/2617419)
 - [leetcode](https://leetcode.com/user1019w/)
