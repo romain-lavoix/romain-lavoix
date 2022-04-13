@@ -16,6 +16,7 @@
 
 ##### PAST
 - 👨‍🎓 A proud graduate of EPITA 2009.
+- 🇮🇳 Former software engineer intern at Siemens Information Systems Ltd in Bangalore, India.
 - 🏦 Former Java Engineer working for Calypso Technology, San Francisco. Clients included Goldman Sach and Natixis.
 - 🧐 Former OCTO Technology Australia consultant. Clients included Qantas and the Australian Mutual Provident Society.
 - 🔎 Developed from scratch Qwarx.nc a search engine dedicated solely to New Caledonia. [link1](https://www.moncoachwebmarketing.nc/2558-qwarx-nc-naissance-dun-moteur-de-recherche-caledonien), [link2](https://madein.nc/rubriques/economique-et-social/2295-un-moteur-de-recherche-100-local), [link3](https://www.lnc.nc/article/nouvelle-caledonie/economie/qwarx-le-moteur-de-recherche-local-peut-il-reussir-a-s-imposer)
