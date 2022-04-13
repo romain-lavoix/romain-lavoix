@@ -25,7 +25,7 @@
 - 🚕 Former investor at [Pickme.nc](https://www.youtube.com/watch?v=JjRdM5riTBM), the first ride hailing service in New Caledonia.
 - 🤖 Teaching of [robotics](https://www.lnc.nc/article/grand-noumea/noumea/a-saint-quentin-les-vacanciers-apprivoisent-la-robotique) to high school students during summer vacations.
 
-##### BIO
+##### MORE
 - ⚙️ I have used mainly : Java, Javascript, Python, HTML5, CSS3, React, CRA, Next, Node, Scrapy, AWS, Algolia.
 - 🌍 I love the JAM Stack, serverless functions, progressive web apps, and hybrid front-end frameworks (Static Generation and Server Side Rendering).
 - ⚡️ Obsessed with fast rendering, always aiming for 90+ performances in Google Lighthouse.
