@@ -30,7 +30,7 @@
 - 🌍 I love the JAM Stack, serverless functions, progressive web apps, and hybrid front-end frameworks (Static Generation and Server Side Rendering).
 - ⚡️ Obsessed with fast rendering, always aiming for 90+ performances in Google Lighthouse.
 - ☀️ Early user of Material-UI (I started when its grid system was still in beta) and NextJS (Used it when Vercel was called Zeit, before their migration from auto-scaling servers to a severless architecture).
-- - 🌱 Continuous learner.
+- 🌱 Continuous learner.
 - 💁‍♂️ Fun fact: I worked in 5 different countries (USA, Australia, France, India, New Caledonia).
 
 ##### LINKS
