@@ -23,7 +23,7 @@
 - 📖 Developed the front-end part of [Rendezvous.nc](https://rendezvous.nc/), the main online appointment website in New Caledonia.
 - 🐞 Former Developer of the crowd-testing platform [Testeum](https://testeum.com/), a tech startup from New Caledonia.
 - 🚕 Former investor at [Pickme.nc](https://www.youtube.com/watch?v=JjRdM5riTBM), the first ride hailing service in New Caledonia.
-- 🤖 Teaching of [robotics](https://www.lnc.nc/article/grand-noumea/noumea/a-saint-quentin-les-vacanciers-apprivoisent-la-robotique) to high school students during summer vacations.
+- 🤖 Teaching of [robotics](https://www.linkedin.com/pulse/claque-ton-code-et-design-robot-o-charlotte-ullmann/?originalSubdomain=fr) to high school students during summer vacations.
 
 ##### MORE
 - ⚙️ I have used mainly : Java, Javascript, Python, HTML5, CSS3, React, CRA, Next, Node, Scrapy, AWS, Algolia.
